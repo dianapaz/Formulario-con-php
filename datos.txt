@@ -1,0 +1,3 @@
+Paz;Riascos;Diana Estefanny;CC;1086224567;diana@gmail.com;123;Ropa_Formal;Chaqueta;VO5;1;Cafe;45;5500;9%;Irma Soto;14 April, 2017
+Díaz;Cordoba;Maria Angélica;CC;345621356;maria@hotmail.com;46463;Ropa_Deportiva;Chaqueta;Adidas;2;Rojo;6453;180000;19%;Sonia Torres;13 March, 2017
+Torres;Aristizabal;Luis;CC;4565754;luis@gmail.com;32;Ropa_Deportiva;Camiseta;Adidas;4;Verde;12;230000;16%;Sonia Torres;7 July, 2017
